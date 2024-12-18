@@ -1,0 +1,30 @@
+<html>
+    <head></head>
+    <body>
+        <!-- NAVIGATION BAR -->
+        <div>
+            <ul>
+                <li>HOME</li>
+                <li>ABOUT ME</li>
+                <li>CONTACT ME</li>
+            </ul>
+        </div>
+        <!-- NAVIGATION BAR SELESAI -->
+        <div>
+
+        </div>
+        <!-- CONTENT 1 -->
+        <div>
+            <img />
+        </div>
+        <!-- CONTENT 1 END -->
+        <div>
+
+        </div>
+        <!-- FOOTER -->
+        <div>
+            FOOTER
+        </div>
+        <!-- FOOTER END -->
+    </body>
+</html>
